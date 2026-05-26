@@ -39,7 +39,7 @@ SCT_WD_4/
 └── README.md
 
 # Live Demo
-[My Planner](#)  (https://varinda-aggarwal.github.io/SCT_WD_4/)
+[My Planner](https://varinda-aggarwal.github.io/SCT_WD_4/)
 
 # Screenshots
 
